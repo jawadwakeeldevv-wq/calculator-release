@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a **modular command-line Calculator program** written in C++.  
+This is a **modular command-line Calculator program** written in C++..
 It supports basic arithmetic operations: **addition, subtraction, multiplication, and division**.
 
 ## Installation
