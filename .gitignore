@@ -1,0 +1,46 @@
+# =========================
+# Calculator Project .gitignore
+# =========================
+
+# Build output folder (binaries and object files)
+build/
+*.o
+*.obj
+*.exe
+
+# Release folder (distribution packages)
+release/
+
+# Log files
+*.log
+log.txt
+
+# Distribution archives
+*.zip
+*.tar.gz
+*.tar
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code workspace settings (optional)
+.vscode/
+
+# Backup files created by editors
+*~
+*.backup
+
+# Compiled DLLs or shared libraries (if any)
+*.dll
+*.so
+*.dylib
+
+# Ignore user-specific configuration files
+*.user
+*.suo
